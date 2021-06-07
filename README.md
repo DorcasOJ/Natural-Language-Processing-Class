@@ -1,1 +1,1 @@
-# Natural-Language-Processing-Class
+# Women in Data Science Machine Learning Bootcamp
